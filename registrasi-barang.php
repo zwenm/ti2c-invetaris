@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Inventory Management | Form Registrasi Barang</title>
+    <title>Inputkan | Form Registrasi Barang</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body {

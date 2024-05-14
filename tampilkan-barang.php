@@ -22,7 +22,7 @@ if (isset($_GET['id'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sistem Inventaris Barang</title>
+    <title>Inputkan | List Barang </title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Roboto+Condensed:wght@100..900&family=Teko:wght@300..700&display=swap');
 
